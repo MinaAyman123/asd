@@ -1,0 +1,188 @@
+body { 
+background-color: #c4cdcd44;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+div{
+    width: 100%;
+}
+img{
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    /* background-position: ; */
+    background-size: contain;
+    background-color: #79aeae;
+    /* margin: auto; */
+    margin-left: 260px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.levelone
+{
+background-color: rgb(0, 0, 0);
+    width: 100px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 3px;
+    text-decoration: none;
+    margin-top: 10px;
+    text-transform: capitalize;
+    word-spacing: 1px;
+    text-shadow: 1px 1px 2px rgb(57, 29, 79);
+    border-radius: 10px;
+}
+
+.leveltwo
+{
+background-color: rgb(0, 0, 0);
+    width: 100px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 3px;
+    text-decoration: none;
+    margin-top: 3px;
+    text-transform: capitalize;
+    word-spacing: 1px;
+    text-shadow: 1px 1px 2px rgb(57, 29, 79);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+background-image: url("../Images/1.jpg");
+background-color: #00EEEE;  
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 200px;
+padding:10px;
+margin: 10px;
+border: 2px solid #BBCCDD;
+border-radius: 10px;
+text-align: center;
+text-transform: capitalize;
+text-shadow: 1px 2px 3px red;
+display: block;
+overflow: hidden;
+letter-spacing:-0.5px;  
+line-height: 1.6;
+word-spacing: 2px;
+letter-spacing: 0px;
+text-indent: 10px;
+word-spacing: 1px;
+line-height:200%;
+white-space:normal ;
+word-break:break-word;
+text-overflow: ellipsis;
+}
+div:hover
+{
+overflow: visible;
+}
+a
+{
+background-color: red;
+text-shadow: 1px 1px 3px black;
+border:1px solid salmon;
+border-radius: 5px;
+text-decoration: none;
+
+}
+
+div p
+{
+    padding: inherit;
+    margin: inherit;
+    border: inherit;
+} */
+     /* width: 100px;
+    height: 100px;  
+    background-color:#AAEEFF;
+    color: rgb(200 100 199);
+    overflow:auto;
+    text-shadow:1px 0 3px red;
+     */
